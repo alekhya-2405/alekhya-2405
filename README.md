@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alekhya-2405
+- 👋 Hi, I’m @alekhya
 - 👀 I’m interested in Java,Salesforce
 - 🌱 I’m currently learning  Salesforce
 - 💞️ I’m looking to collaborate on Salesforce
